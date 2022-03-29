@@ -1,0 +1,68 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "json-server1 telah diubah",
+      "body": "typicode1 sukses"
+    },
+    {
+      "id": 3,
+      "title": "json-server1",
+      "body": "typicode1"
+    },
+    {
+      "id": 4,
+      "title": "json-server1",
+      "body": "typicode1"
+    },
+    {
+      "id": 1648548565496,
+      "title": "SIIIUUUU",
+      "body": "Correct"
+    },
+    {
+      "id": 1648548723327,
+      "title": "Lagi",
+      "body": "Test"
+    },
+    {
+      "id": 1648548993406,
+      "title": "coba ero function",
+      "body": "bismillah"
+    },
+    {
+      "id": 1648549065147,
+      "title": "Bismillah",
+      "body": "sukses"
+    },
+    {
+      "id": 1648560265157,
+      "title": "Coba",
+      "body": "Input"
+    },
+    {
+      "id": 1648560284362,
+      "title": "Halo",
+      "body": "Hehe"
+    },
+    {
+      "id": 1648565846938,
+      "title": "SIIIUUUURONALDO",
+      "body": "Correct"
+    },
+    {
+      "id": 1648565846939,
+      "title": "SIIUUUUUU EDIT",
+      "body": "Test PUT Berhasil"
+    },
+    {
+      "id": 1648565846940,
+      "title": "Haloo",
+      "body": "Tst Add data"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
