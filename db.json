@@ -1,64 +1,81 @@
 {
   "posts": [
     {
-      "id": 2,
-      "title": "json-server1 telah diubah",
-      "body": "typicode1 sukses"
-    },
-    {
       "id": 3,
-      "title": "json-server1",
-      "body": "typicode1"
+      "namaKaryawan": "Rain",
+      "jabatan": "Head Office",
+      "jenisKelamin": "Perempuan",
+      "date": "2001-12-09"
     },
     {
       "id": 4,
-      "title": "json-server1",
-      "body": "typicode1"
+      "namaKaryawan": "json-server1",
+      "jabatan": "typicode1",
+      "jenisKelamin": "Laki-laki",
+      "date": "2001-12-10"
     },
     {
       "id": 1648548565496,
-      "title": "SIIIUUUU",
-      "body": "Correct"
+      "namaKaryawan": "SIIIUUUU",
+      "jabatan": "Correct",
+      "jenisKelamin": "Laki-laki",
+      "date": "2001-12-10"
     },
     {
       "id": 1648548723327,
-      "title": "Lagi",
-      "body": "Test"
+      "namaKaryawan": "Lagi",
+      "jabatan": "Test",
+      "jenisKelamin": "Laki-laki",
+      "date": "2001-12-10"
     },
     {
       "id": 1648548993406,
-      "title": "coba ero function",
-      "body": "bismillah"
+      "namaKaryawan": "coba ero function",
+      "jabatan": "bismillah",
+      "jenisKelamin": "Laki-laki",
+      "date": "2001-12-10"
     },
     {
       "id": 1648549065147,
-      "title": "Bismillah",
-      "body": "sukses"
+      "namaKaryawan": "Bismillah",
+      "jabatan": "sukses",
+      "jenisKelamin": "Laki-laki",
+      "date": "2001-12-10"
     },
     {
       "id": 1648560265157,
-      "title": "Coba",
-      "body": "Input"
+      "namaKaryawan": "Coba",
+      "jabatan": "Input",
+      "jenisKelamin": "Laki-laki",
+      "date": "2001-12-10"
     },
     {
       "id": 1648560284362,
-      "title": "Halo",
-      "body": "Hehe"
+      "namaKaryawan": "Halo",
+      "jabatan": "Hehe",
+      "jenisKelamin": "Laki-laki",
+      "date": "2001-12-10"
     },
     {
       "id": 1648565846938,
-      "title": "SIIIUUUURONALDO",
-      "body": "Correct"
+      "namaKaryawan": "SIIIUUUURONALDO",
+      "jabatan": "Correct",
+      "jenisKelamin": "Laki-laki",
+      "date": "2001-12-10"
     },
     {
       "id": 1648565846939,
-      "title": "SIIUUUUUU EDIT",
-      "body": "Test PUT Berhasil"
+      "namaKaryawan": "SIIUUUUUU EDIT",
+      "jabatan": "Test PUT Berhasil",
+      "jenisKelamin": "Laki-laki",
+      "date": "2001-12-10"
     },
     {
       "id": 1648565846940,
-      "title": "Haloo",
-      "body": "Tst Add data"
+      "namaKaryawan": "Haloo",
+      "jabatan": "Tst Add data",
+      "jenisKelamin": "Laki-laki",
+      "date": "2001-12-10"
     }
   ],
   "comments": [],
